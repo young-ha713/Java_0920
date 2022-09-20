@@ -33,5 +33,5 @@
 구글에서 api검색하라  
   
   
- add() size() get()  
+ add() size() get() 다시한번 생각해보기  
  
